@@ -1,0 +1,28 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-02-02T12:00:00Z",
+  "libraries": {
+    "nextjs": {
+      "files": [
+        {
+          "filename": "app-router-setup.md",
+          "topic": "App Router project setup with TypeScript",
+          "tech_stack": "Next.js 15",
+          "fetched": "2026-02-02T12:00:00Z",
+          "source": "Context7 API"
+        }
+      ]
+    },
+    "shadcn-ui": {
+      "files": [
+        {
+          "filename": "nextjs-installation.md",
+          "topic": "Installation and setup with Next.js",
+          "tech_stack": "Next.js + shadcn/ui",
+          "fetched": "2026-02-02T12:00:00Z",
+          "source": "Context7 API"
+        }
+      ]
+    }
+  }
+}
